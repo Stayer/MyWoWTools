@@ -1,0 +1,5 @@
+D:\0_cataclysm\4.3\ConsoleApplication1\ConsoleApplication1\obj\x86\Release\ResolveAssemblyReference.cache
+D:\0_cataclysm\4.3\ConsoleApplication1\ConsoleApplication1\bin\Release\MDataParser.exe
+D:\0_cataclysm\4.3\ConsoleApplication1\ConsoleApplication1\bin\Release\MDataParser.pdb
+D:\0_cataclysm\4.3\ConsoleApplication1\ConsoleApplication1\obj\x86\Release\MDataParser.exe
+D:\0_cataclysm\4.3\ConsoleApplication1\ConsoleApplication1\obj\x86\Release\MDataParser.pdb
